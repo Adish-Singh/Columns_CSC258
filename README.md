@@ -15,6 +15,10 @@ A recreation of the classic falling-gems puzzle game **Columns**, written entire
 |:---:|:---:|:---:|
 | ![Start](documents/screenshots/start_screen.png) | ![Gameplay](documents/screenshots/gameplay.png) | ![Game over](documents/screenshots/game_over.png) |
 
+| Gameplay Demo |
+| :----------:|
+| ![Demo](documents/Columns_Demo.mp4) |
+
 ## Features
 
 - **Core gameplay:** falling 3-gem columns with left/right movement, shuffling, and hard drop
