@@ -13,7 +13,7 @@ A recreation of the classic falling-gems puzzle game **Columns**, written entire
 
 | Start screen | Gameplay | Game over |
 |:---:|:---:|:---:|
-| ![Start](docs/screenshots/start_screen.png) | ![Gameplay](docs/screenshots/gameplay.png) | ![Game over](docs/screenshots/game_over.png) |
+| ![Start](documents/screenshots/start_screen.png) | ![Gameplay](documents/screenshots/gameplay.png) | ![Game over](documents/screenshots/game_over.png) |
 
 ## Features
 
