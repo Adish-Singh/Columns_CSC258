@@ -15,9 +15,9 @@ A recreation of the classic falling-gems puzzle game **Columns**, written entire
 |:---:|:---:|:---:|
 | ![Start](documents/screenshots/start_screen.png) | ![Gameplay](documents/screenshots/gameplay.png) | ![Game over](documents/screenshots/game_over.png) |
 
-| Gameplay Demo |
-| :----------:|
-| ![Demo](documents/Columns_Demo.mp4) |
+**Gameplay Demo**
+
+https://github.com/user-attachments/assets/c794452c-903d-4ffc-a03d-68c1773fc297
 
 ## Features
 
